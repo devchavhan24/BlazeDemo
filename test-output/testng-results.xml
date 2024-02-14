@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-13T14:47:27 IST" name="Default suite" finished-at="2024-02-13T14:48:02 IST" duration-ms="34446">
+    <groups>
+    </groups>
+    <test started-at="2024-02-13T14:47:27 IST" name="Default test" finished-at="2024-02-13T14:48:02 IST" duration-ms="34446">
+      <class name="com.blaze.test.HpageTest">
+        <test-method is-config="true" signature="getDriver()[pri:0, instance:com.blaze.test.HpageTest@606e4010]" started-at="2024-02-13T14:47:27 IST" name="getDriver" finished-at="2024-02-13T14:47:43 IST" duration-ms="15488" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDriver -->
+        <test-method signature="Assessment()[pri:0, instance:com.blaze.test.HpageTest@606e4010]" started-at="2024-02-13T14:47:43 IST" name="Assessment" finished-at="2024-02-13T14:48:02 IST" duration-ms="18769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Assessment -->
+        <test-method is-config="true" signature="quitdriver()[pri:0, instance:com.blaze.test.HpageTest@606e4010]" started-at="2024-02-13T14:48:02 IST" name="quitdriver" finished-at="2024-02-13T14:48:02 IST" duration-ms="157" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitdriver -->
+      </class> <!-- com.blaze.test.HpageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
